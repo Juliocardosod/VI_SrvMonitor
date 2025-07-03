@@ -1,0 +1,8 @@
+LOG/
+__pycache__
+build/
+legacyDist/
+SrvMonitor.spec
+config.ini
+.history
+dist/
