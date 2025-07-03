@@ -6,3 +6,4 @@ SrvMonitor.spec
 config.ini
 .history
 dist/
+.docx
